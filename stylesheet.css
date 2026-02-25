@@ -21,7 +21,7 @@ padding:0;
 }
 
 ul{list-style: none;
-	margin:10px;
+	margin:5px;
 	padding:0px;
 overflow:hidden;
 }
@@ -30,7 +30,7 @@ ul li a{
 	float:left;
 	border:5px solid yellowgreen;
 	margin:0px;display:block;
-	width:140px;
+	width:100px;
 	padding:30px;
 	background-color: #FFB748 ;
 	margin:0;
