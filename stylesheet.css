@@ -5,8 +5,8 @@ body{
 
 h1{font-size:100px;
 	background-color: pink;
-	border-radius: 40px;
-	border-width: 150px;
+	border-radius: 30px;
+	border-width: 120px;
 	border-style: groove;
 	border-color: royalblue;
 	font-family: monospace;
@@ -31,7 +31,7 @@ ul li a{
 	float:left;
 	border:3px solid yellowgreen;
 	margin:0px;display:block;
-	width:80px;
+	width:130px;
 	padding:20px;
 	background-color: #FFB748 ;
 	margin:0;
