@@ -6,7 +6,7 @@ body{
 h1{font-size:100px;
 	background-color: pink;
 	border-radius: 20px;
-	border-width: 100px;
+	border-width: 80px;
 	border-style: groove;
 	border-color: royalblue;
 	font-family: monospace;
@@ -18,7 +18,7 @@ padding:0;
 
 .catalog{position:sticky;
 	top:0px;
-	border-width:80px;
+	border-width:30px;
 
 }
 
