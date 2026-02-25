@@ -18,8 +18,9 @@ padding:0;
 }
 
 .catalog{position:sticky;
-		 top:0px;
+	top:0px;
 }
+/*this top:0px part is what keeps the top thing floating as I scroll down the webpage do not delete*/
 
 ul{list-style: none;
 	margin:5px;
