@@ -2,6 +2,7 @@ body{
 	background-image: url("https://i.postimg.cc/MKYPqBQb/background.png");
 }
 
+/*this part is for the title*/
 
 h1{font-size:100px;
 	background-color: pink;
@@ -23,14 +24,14 @@ padding:0;
 }
 
 ul{list-style: none;
-	margin:0px;
+	margin:10px;
 	padding:0px;
 overflow:hidden;
 }
 
 ul li a{
 	float:left;
-	border:3px solid yellowgreen;
+	border:5px solid yellowgreen;
 	margin:0px;display:block;
 	width:140px;
 	padding:30px;
