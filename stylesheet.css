@@ -4,10 +4,10 @@ body{
 
 /*this part is for the title*/
 
-h1{font-size:80px;
+h1{font-size:50px;
 	background-color: pink;
-	border-radius: 30px;
-	border-width: 70px;
+	border-radius: 20px;
+	border-width: 30px;
 	border-style: groove;
 	border-color: royalblue;
 	font-family: monospace;
