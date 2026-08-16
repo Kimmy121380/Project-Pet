@@ -29,7 +29,7 @@ overflow:hidden;
 }
 
 ul li a{
-	float:none;
+	float:left;
 	border:5px solid yellowgreen;
 	margin:0px;display:block;
 	width:100px;
